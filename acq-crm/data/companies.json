@@ -1,0 +1,3551 @@
+[
+  {
+    "id": "a-w-office-supply",
+    "name": "A&W OFFICE SUPPLY",
+    "owner": "Jeff Silver",
+    "address": {
+      "street": "10653 Dutchtown Road",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37932",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 23209",
+      "city": "Knoxville",
+      "state": "TN",
+      "zip": "37933",
+      "country": "USA"
+    },
+    "phone": "(865) 966-1133",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper",
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 35.9606,
+    "lng": -83.9207
+  },
+  {
+    "id": "acorn-paper-products-co",
+    "name": "ACORN PAPER PRODUCTS CO.",
+    "owner": "David Weisberg",
+    "address": {
+      "street": "3686 E. Olympic Blvd.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90023",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 23965",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90023",
+      "country": "USA"
+    },
+    "phone": "(323) 268-0507",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "look at b2b industrial packaging",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "id": "all-florida-paper-inc",
+    "name": "ALL FLORIDA PAPER, INC.",
+    "owner": "Armando Caceres",
+    "address": {
+      "street": "9150 N.W. 105th Way",
+      "city": "Medley",
+      "state": "FL",
+      "zip": "33178",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "9150 N.W. 105th Way",
+      "city": "Medley",
+      "state": "FL",
+      "zip": "33178",
+      "country": "USA"
+    },
+    "phone": "(305) 835-6060",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 25.9075,
+    "lng": -80.3245
+  },
+  {
+    "id": "apex-packaging",
+    "name": "APEX PACKAGING",
+    "owner": "Charles Hutchcraft",
+    "address": {
+      "street": "731 Prairie DuPont Drive Suite 200",
+      "city": "Dupo",
+      "state": "IL",
+      "zip": "62239",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 997",
+      "city": "Paducah",
+      "state": "KY",
+      "zip": "42002",
+      "country": "USA"
+    },
+    "phone": "(618) 286-9660",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 38.5153,
+    "lng": -90.2062
+  },
+  {
+    "id": "arrow-paper-corp",
+    "name": "ARROW PAPER CORP.",
+    "owner": "Robert Penna",
+    "address": {
+      "street": "1 Burlington Ave.",
+      "city": "Wilmington",
+      "state": "MA",
+      "zip": "1887",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 1001",
+      "city": "Wilmington",
+      "state": "MA",
+      "zip": "1887",
+      "country": "USA"
+    },
+    "phone": "(978) 658-8077",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG",
+      "Jan"
+    ],
+    "notes": null,
+    "lat": 42.5487,
+    "lng": -71.1745
+  },
+  {
+    "id": "atlantic-corp-pkg-sup-wilmington",
+    "name": "ATLANTIC CORP PKG & SUP- WILMINGTON",
+    "owner": "Bill Balkcum",
+    "address": {
+      "street": "806 North 23rd Street",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28405",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "806 North 23rd Street",
+      "city": "Wilmington",
+      "state": "NC",
+      "zip": "28405",
+      "country": "USA"
+    },
+    "phone": "910-343-0624",
+    "branches": 6,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG",
+      "Jan"
+    ],
+    "notes": null,
+    "lat": 34.2257,
+    "lng": -77.9447
+  },
+  {
+    "id": "bi-state-packaging-inc",
+    "name": "BI-STATE PACKAGING, INC.",
+    "owner": "Chris Ontiveros",
+    "address": {
+      "street": "4905 77th Avenue",
+      "city": "Milan",
+      "state": "IL",
+      "zip": "61264",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 920",
+      "city": "Milan",
+      "state": "IL",
+      "zip": "61264",
+      "country": "USA"
+    },
+    "phone": "(309) 736-8500",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "now group O",
+    "lat": 41.4522,
+    "lng": -90.5715
+  },
+  {
+    "id": "black-hills-chemical-janitorial",
+    "name": "BLACK HILLS CHEMICAL & JANITORIAL",
+    "owner": "Lonnie Green",
+    "address": {
+      "street": "1011 E. Philadelphia",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57701",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 2082",
+      "city": "Rapid City",
+      "state": "SD",
+      "zip": "57709",
+      "country": "USA"
+    },
+    "phone": "(605) 342-0788",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": "own containers/trucks",
+    "lat": 44.0805,
+    "lng": -103.231
+  },
+  {
+    "id": "bortek-industries",
+    "name": "BORTEK INDUSTRIES",
+    "owner": "Mike Boarman",
+    "address": {
+      "street": "4713 Old Gettysburg Road",
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "zip": "17055",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "4713 Old Gettysburg Road",
+      "city": "Mechanicsburg",
+      "state": "PA",
+      "zip": "17055",
+      "country": "USA"
+    },
+    "phone": "(717) 737-7162",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "All"
+    ],
+    "notes": "great size, one branch",
+    "lat": 40.2137,
+    "lng": -77.0091
+  },
+  {
+    "id": "brame-specialty-co-durham",
+    "name": "BRAME SPECIALTY CO.- DURHAM",
+    "owner": "Bart Cash",
+    "address": {
+      "street": "2021 Briggs Avenue",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27703",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "Do Not Send Mail",
+      "city": "Durham",
+      "state": "NC",
+      "zip": "27702",
+      "country": "USA"
+    },
+    "phone": "(919) 598-1500",
+    "branches": 4,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "All"
+    ],
+    "notes": null,
+    "lat": 35.994,
+    "lng": -78.8986
+  },
+  {
+    "id": "brown-packaging",
+    "name": "BROWN PACKAGING",
+    "owner": "Paula Bopp",
+    "address": {
+      "street": "201 Howland Avenue",
+      "city": "Adams",
+      "state": "MA",
+      "zip": "1220",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 510",
+      "city": "Adams",
+      "state": "MA",
+      "zip": "1220",
+      "country": "USA"
+    },
+    "phone": "(413) 743-7002",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "Now Pacific Packaging Products",
+    "lat": 42.6273,
+    "lng": -73.1198
+  },
+  {
+    "id": "calvey-nevada-packaging-ernest",
+    "name": "CALVEY NEVADA PACKAGING/ERNEST",
+    "owner": "Warren Pazolt",
+    "address": {
+      "street": "4999 Aircenter Circle",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "4999 Aircenter Circle",
+      "city": "Reno",
+      "state": "NV",
+      "zip": "89502",
+      "country": "USA"
+    },
+    "phone": "(775) 829-9700",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "massive",
+    "lat": 39.5296,
+    "lng": -119.8138
+  },
+  {
+    "id": "canadian-industrial-dist-bc",
+    "name": "CANADIAN INDUSTRIAL DIST. BC",
+    "owner": "Don Paullos",
+    "address": {
+      "street": "1487 Lindsey Place",
+      "city": "Delta",
+      "state": "BC",
+      "zip": "V3M 6V1",
+      "country": "CAN"
+    },
+    "mailingAddress": {
+      "street": "1487 Lindsey Place",
+      "city": "Delta",
+      "state": "BC",
+      "zip": "V3M 6V1",
+      "country": "CAN"
+    },
+    "phone": "(604) 515-9300",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 49.0847,
+    "lng": -123.0587
+  },
+  {
+    "id": "chudy-paper-company-inc",
+    "name": "CHUDY PAPER COMPANY, INC.",
+    "owner": "Don Malysza",
+    "address": {
+      "street": "930 Bailey Avenue",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14206",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 338",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14240",
+      "country": "USA"
+    },
+    "phone": "(716) 825-1935",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 42.8864,
+    "lng": -78.8784
+  },
+  {
+    "id": "cole-papers-inc-fargo",
+    "name": "COLE PAPERS, INC.- FARGO",
+    "owner": "James P. Critelli",
+    "address": {
+      "street": "1300 North 38th Street",
+      "city": "Fargo",
+      "state": "ND",
+      "zip": "58102",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 2967",
+      "city": "Fargo",
+      "state": "ND",
+      "zip": "58108-2967",
+      "country": "USA"
+    },
+    "phone": "(701) 282-5311",
+    "branches": 6,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 46.8772,
+    "lng": -96.7898
+  },
+  {
+    "id": "colony-papers-inc",
+    "name": "COLONY PAPERS, INC.",
+    "owner": "Fred Callahan",
+    "address": {
+      "street": "1776 Colony Road",
+      "city": "York",
+      "state": "PA",
+      "zip": "17404",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 2243",
+      "city": "York",
+      "state": "PA",
+      "zip": "17405",
+      "country": "USA"
+    },
+    "phone": "(717) 764-5088",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "part of colony packaging",
+    "lat": 39.9626,
+    "lng": -76.7277
+  },
+  {
+    "id": "colt-safety-inc",
+    "name": "COLT SAFETY, INC.",
+    "owner": "Christine Bierman",
+    "address": {
+      "street": "8300 Manchester Road",
+      "city": "Saint Louis",
+      "state": "MO",
+      "zip": "63144",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "8300 Manchester Road",
+      "city": "Saint Louis",
+      "state": "MO",
+      "zip": "63144",
+      "country": "USA"
+    },
+    "phone": "(314) 961-4414",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Safety"
+    ],
+    "notes": "LOOK AT ARBILL",
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  {
+    "id": "crown-packaging-corp-st-louis",
+    "name": "CROWN PACKAGING CORP.-ST.LOUIS",
+    "owner": "Rich Benkelman",
+    "address": {
+      "street": "17854 Chesterfield Airport Rd.",
+      "city": "Chesterfield",
+      "state": "MO",
+      "zip": "63005",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 17806M",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63195",
+      "country": "USA"
+    },
+    "phone": "(636) 681-9400",
+    "branches": 16,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 38.6631,
+    "lng": -90.5771
+  },
+  {
+    "id": "day-pak-inc",
+    "name": "DAY-PAK, INC.",
+    "owner": "Tom Igleburger",
+    "address": {
+      "street": "2208 Sandridge Drive",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45439",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 363",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45409",
+      "country": "USA"
+    },
+    "phone": "(937) 294-7311",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "Great size, no wesbite",
+    "lat": 39.7589,
+    "lng": -84.1916
+  },
+  {
+    "id": "dival-safety",
+    "name": "DIVAL SAFETY",
+    "owner": "C.J. Valone",
+    "address": {
+      "street": "1721 Niagara Street",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14207",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1721 Niagara Street",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14207",
+      "country": "USA"
+    },
+    "phone": "(716) 874-9060",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "All"
+    ],
+    "notes": "Larger than they look I think",
+    "lat": 42.8864,
+    "lng": -78.8784
+  },
+  {
+    "id": "diversified-packaging",
+    "name": "DIVERSIFIED PACKAGING",
+    "owner": "Larry Meyer",
+    "address": {
+      "street": "2101 Innerbelt Business Center Dr",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63114",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 795004",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63179-0795",
+      "country": "USA"
+    },
+    "phone": "(314) 423-1515",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  {
+    "id": "e-r-industrial-sales",
+    "name": "E & R INDUSTRIAL SALES",
+    "owner": "Mike Pisa",
+    "address": {
+      "street": "40800 Enterprise Drive",
+      "city": "Sterling Heights",
+      "state": "MI",
+      "zip": "48314",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "40800 Enterprise Drive",
+      "city": "Sterling Heights",
+      "state": "MI",
+      "zip": "48314",
+      "country": "USA"
+    },
+    "phone": "(586) 795-2400",
+    "branches": 4,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "All"
+    ],
+    "notes": "Paradigm PE",
+    "lat": 42.5803,
+    "lng": -83.0302
+  },
+  {
+    "id": "eagle-paper-company-inc",
+    "name": "EAGLE PAPER COMPANY, INC.",
+    "owner": "Tim McDonald",
+    "address": {
+      "street": "1031 Lexington Road",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40204",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 4938",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40204-0938",
+      "country": "USA"
+    },
+    "phone": "(502) 585-4026",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "id": "empire-paper-wichita-falls-corporat",
+    "name": "EMPIRE PAPER-WICHITA FALLS CORPORAT",
+    "owner": "Ron  Wright",
+    "address": {
+      "street": "2708 Central Freeway East",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "zip": "76301",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2708 Central Freeway East",
+      "city": "Wichita Falls",
+      "state": "TX",
+      "zip": "76301",
+      "country": "USA"
+    },
+    "phone": "(940) 766-3216",
+    "branches": 4,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "big warehouse",
+    "lat": 33.9137,
+    "lng": -98.4934
+  },
+  {
+    "id": "evans-evco-co-w-evans",
+    "name": "EVANS/EVCO CO. (W. EVANS)",
+    "owner": "Steve Shockey",
+    "address": {
+      "street": "3901 North Kimball Drive",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64161-9480",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "3901 North Kimball Drive",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip": "64161-9480",
+      "country": "USA"
+    },
+    "phone": "(816) 452-8614",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "owned by budnick",
+    "lat": 39.0997,
+    "lng": -94.5786
+  },
+  {
+    "id": "flex-pac-inc",
+    "name": "FLEX-PAC, INC.",
+    "owner": "Eric Toth",
+    "address": {
+      "street": "7113 S. Mayflower Park Drive",
+      "city": "Zionsville",
+      "state": "IN",
+      "zip": "46077",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 660212",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46266-0212",
+      "country": "USA"
+    },
+    "phone": "(317) 872-0097",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "maybe too big",
+    "lat": 39.9506,
+    "lng": -86.2602
+  },
+  {
+    "id": "flexpak-inc",
+    "name": "FLEXPAK INC.",
+    "owner": "Brian Kellen",
+    "address": {
+      "street": "2899 W. Parkway Blvd.",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84119",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 25727",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip": "84125",
+      "country": "USA"
+    },
+    "phone": "(801) 956-0696",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "also giant",
+    "lat": 40.7608,
+    "lng": -111.891
+  },
+  {
+    "id": "florida-supply-cleaning-inc",
+    "name": "FLORIDA SUPPLY & CLEANING, INC.",
+    "owner": "Fred Acrin",
+    "address": {
+      "street": "1710 Industrial Street",
+      "city": "Edgewater",
+      "state": "FL",
+      "zip": "32132",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1710 Industrial Street",
+      "city": "Edgewater",
+      "state": "FL",
+      "zip": "32132",
+      "country": "USA"
+    },
+    "phone": "(386) 478-0240",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 28.9861,
+    "lng": -80.9037
+  },
+  {
+    "id": "fuller-group-of-p-r-inc",
+    "name": "FULLER GROUP OF P.R. INC.",
+    "owner": "Jorge Lopez",
+    "address": {
+      "street": "103 Conquistadores",
+      "city": "Capano",
+      "state": "PR",
+      "zip": "962",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 362617",
+      "city": "San Juan",
+      "state": "PR",
+      "zip": "00936-2617",
+      "country": "USA"
+    },
+    "phone": "(787) 788-8080",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "All"
+    ],
+    "notes": "too big",
+    "lat": 18.4497,
+    "lng": -66.1177
+  },
+  {
+    "id": "fulton-distributing-company",
+    "name": "FULTON DISTRIBUTING COMPANY",
+    "owner": "Jan Lotto",
+    "address": {
+      "street": "82-869 Avenue 45",
+      "city": "Indio",
+      "state": "CA",
+      "zip": "92201",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "82-869 Avenue 45",
+      "city": "Indio",
+      "state": "CA",
+      "zip": "92201",
+      "country": "USA"
+    },
+    "phone": "(760) 347-8669",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "All"
+    ],
+    "notes": null,
+    "lat": 33.7206,
+    "lng": -116.2156
+  },
+  {
+    "id": "gale-supply",
+    "name": "GALE SUPPLY",
+    "owner": "Roger Levy",
+    "address": {
+      "street": "2414 Wellesley Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90064",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2414 Wellesley Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90064",
+      "country": "USA"
+    },
+    "phone": "(310) 477-6591",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "id": "general-packaging-inc-jackson",
+    "name": "GENERAL PACKAGING, INC.- JACKSON",
+    "owner": "Kim Shappley",
+    "address": {
+      "street": "156 N. Conalco",
+      "city": "Jackson",
+      "state": "TN",
+      "zip": "38301",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 3842",
+      "city": "Jackson",
+      "state": "TN",
+      "zip": "38303",
+      "country": "USA"
+    },
+    "phone": "(731) 424-1463",
+    "branches": 1,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 35.6145,
+    "lng": -88.8139
+  },
+  {
+    "id": "general-paper-goods-company-inc",
+    "name": "GENERAL PAPER GOODS COMPANY, INC.",
+    "owner": "Kevin Florence",
+    "address": {
+      "street": "3601 Southside Industrial Parkway",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30354",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 16829",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30321",
+      "country": "USA"
+    },
+    "phone": "(404) 361-5500 ",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "id": "h-petter-supply-company",
+    "name": "H. PETTER SUPPLY COMPANY",
+    "owner": "Harold Neihoff",
+    "address": {
+      "street": "5110 Charter Oak Drive",
+      "city": "Paducah",
+      "state": "KY",
+      "zip": "42002",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 2350",
+      "city": "Paducah",
+      "state": "KY",
+      "zip": "42002-2350",
+      "country": "USA"
+    },
+    "phone": " 270-575-5095",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 37.0834,
+    "lng": -88.6
+  },
+  {
+    "id": "harbor-packaging-inc",
+    "name": "HARBOR PACKAGING, INC.",
+    "owner": "Jeannette Calzada-Sebastiano",
+    "address": {
+      "street": "13100 Danielson Street",
+      "city": "Poway",
+      "state": "CA",
+      "zip": "92064",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "13100 Danielson Street",
+      "city": "Poway",
+      "state": "CA",
+      "zip": "92064",
+      "country": "USA"
+    },
+    "phone": "(858) 513-1800",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "owned by liberty diversified international",
+    "lat": 32.9628,
+    "lng": -117.0359
+  },
+  {
+    "id": "harder-helsley",
+    "name": "HARDER HELSLEY",
+    "owner": "Bob Woelky",
+    "address": {
+      "street": "5301 Verona Road",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53711-4420",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "5301 Verona Road",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53711-4420",
+      "country": "USA"
+    },
+    "phone": "(608) 271-5127",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "look at rocket industrial",
+    "lat": 43.0731,
+    "lng": -89.4012
+  },
+  {
+    "id": "hartman-independent-company",
+    "name": "HARTMAN INDEPENDENT COMPANY",
+    "owner": "Allen  Hartman",
+    "address": {
+      "street": "93 Mayview Road",
+      "city": "Lawrence",
+      "state": "PA",
+      "zip": "15055",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 618",
+      "city": "Lawrence",
+      "state": "PA",
+      "zip": "15055",
+      "country": "USA"
+    },
+    "phone": "(724) 745-6566",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 40.2334,
+    "lng": -80.3239
+  },
+  {
+    "id": "heinrich-paper",
+    "name": "HEINRICH PAPER",
+    "owner": "Thomas L. Heinrich",
+    "address": {
+      "street": "1697 Licking Road",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43701",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 2183",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43702-2183",
+      "country": "USA"
+    },
+    "phone": "(740) 452-9682",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 39.9403,
+    "lng": -82.0132
+  },
+  {
+    "id": "house-of-clean-bozeman",
+    "name": "HOUSE OF CLEAN - BOZEMAN",
+    "owner": "Conrad Kradolfer",
+    "address": {
+      "street": "332 Gallatin Park Drive",
+      "city": "Bozeman",
+      "state": "MT",
+      "zip": "59715",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 1203",
+      "city": "Bozeman",
+      "state": "MT",
+      "zip": "59771-1203",
+      "country": "USA"
+    },
+    "phone": "(406) 586-1577",
+    "branches": 1,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 45.677,
+    "lng": -111.0429
+  },
+  {
+    "id": "hubert-distributing-company",
+    "name": "HUBERT DISTRIBUTING COMPANY",
+    "owner": "Katie Kuntz",
+    "address": {
+      "street": "9555 Dry Fork Road",
+      "city": "Harrison",
+      "state": "OH",
+      "zip": "45030",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "9555 Dry Fork Road",
+      "city": "Harrison",
+      "state": "OH",
+      "zip": "45030",
+      "country": "USA"
+    },
+    "phone": "(513) 367-8600",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 39.262,
+    "lng": -84.7422
+  },
+  {
+    "id": "i-halper-paper-supplies",
+    "name": "I. HALPER PAPER & SUPPLIES",
+    "owner": "Irwin Halper",
+    "address": {
+      "street": "95 Freeway Drive West (Box 445)",
+      "city": "Orange",
+      "state": "NJ",
+      "zip": "7050",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "95 Freeway Drive West (Box 445)",
+      "city": "Orange",
+      "state": "NJ",
+      "zip": "7050",
+      "country": "USA"
+    },
+    "phone": "(973) 675-6633",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 40.7712,
+    "lng": -74.2321
+  },
+  {
+    "id": "jesco-industrial-supplies-inc",
+    "name": "JESCO INDUSTRIAL SUPPLIES, INC.",
+    "owner": "Stephen Saltzman",
+    "address": {
+      "street": "6200 Lakeland Avenue North",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55428",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "6200 Lakeland Avenue North",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55428",
+      "country": "USA"
+    },
+    "phone": "(763) 536-1288",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  {
+    "id": "kyana-packaging-industrial-supply",
+    "name": "KYANA PACKAGING & INDUSTRIAL SUPPLY",
+    "owner": "David White",
+    "address": {
+      "street": "11003 Decimal Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40299-2419",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "11003 Decimal Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40299-2419",
+      "country": "USA"
+    },
+    "phone": "(502) 992-3333",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "id": "l-m-food-service-inc",
+    "name": "L & M FOOD SERVICE, INC.",
+    "owner": "Andy Roesch",
+    "address": {
+      "street": "885 Airpark Drive",
+      "city": "Bullhead City",
+      "state": "AZ",
+      "zip": "86429",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "PMB 2356 -1650 South Casino Drive",
+      "city": "Laughlin",
+      "state": "NV",
+      "zip": "89029-1512",
+      "country": "USA"
+    },
+    "phone": "(928)754-3241",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Food"
+    ],
+    "notes": null,
+    "lat": 35.1478,
+    "lng": -114.5683
+  },
+  {
+    "id": "lawrence-sanitary",
+    "name": "LAWRENCE SANITARY",
+    "owner": "Roy Jorstad",
+    "address": {
+      "street": "5220 Klockner Drive",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23231",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 50070",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23250-0070",
+      "country": "USA"
+    },
+    "phone": "(804) 236-0090",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 37.5407,
+    "lng": -77.436
+  },
+  {
+    "id": "lewis-industrial-supply-harrisburg",
+    "name": "LEWIS INDUSTRIAL SUPPLY-HARRISBURG",
+    "owner": "Steve Rubin",
+    "address": {
+      "street": "3307 North 6th Street",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17110",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "PO Box 5750",
+      "city": "Harrisburg",
+      "state": "PA",
+      "zip": "17110",
+      "country": "USA"
+    },
+    "phone": "(717) 234-2409x113",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 40.2732,
+    "lng": -76.8867
+  },
+  {
+    "id": "m-p-industries-inc",
+    "name": "M & P INDUSTRIES, INC.",
+    "owner": "Mark Tolliver",
+    "address": {
+      "street": "6144 Little Seve Mile Road",
+      "city": "Huntington",
+      "state": "WV",
+      "zip": "25702",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 187",
+      "city": "Lesage",
+      "state": "WV",
+      "zip": "25537",
+      "country": "USA"
+    },
+    "phone": "(304) 736-4046",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "idk"
+    ],
+    "notes": null,
+    "lat": 38.4192,
+    "lng": -82.4452
+  },
+  {
+    "id": "m-j-earl-inc",
+    "name": "M. J. EARL, INC.",
+    "owner": "Georgena Evans",
+    "address": {
+      "street": "500 N. 3rd Street",
+      "city": "Reading",
+      "state": "PA",
+      "zip": "19601",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 13427",
+      "city": "Reading",
+      "state": "PA",
+      "zip": "19612-3427",
+      "country": "USA"
+    },
+    "phone": "(610) 375-8455",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 40.3356,
+    "lng": -75.9269
+  },
+  {
+    "id": "mark-pack-inc",
+    "name": "MARK PACK, INC.",
+    "owner": "Dave  Nielsen",
+    "address": {
+      "street": "776 Main Street",
+      "city": "Coopersville",
+      "state": "MI",
+      "zip": "49404",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 305",
+      "city": "Coopersville",
+      "state": "MI",
+      "zip": "49404-0305",
+      "country": "USA"
+    },
+    "phone": "(616) 837-5400",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": "4--8",
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 43.07,
+    "lng": -85.935
+  },
+  {
+    "id": "maui-chemical-paper-products-inc",
+    "name": "MAUI CHEMICAL & PAPER PRODUCTS, INC",
+    "owner": "Harry Nakagawa",
+    "address": {
+      "street": "875 Alua St.",
+      "city": "Wailuku",
+      "state": "HI",
+      "zip": "96793",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 930",
+      "city": "Wailaku",
+      "state": "HI",
+      "zip": "96793",
+      "country": "USA"
+    },
+    "phone": "(808) 244-7311",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 20.8783,
+    "lng": -156.5017
+  },
+  {
+    "id": "menaco-corporation",
+    "name": "MENACO CORPORATION",
+    "owner": "Jorge Padial",
+    "address": {
+      "street": "550 Carr. # 5 KM. 2.0 Ind.Luchetti",
+      "city": "Bayamon",
+      "state": "PR",
+      "zip": "961",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 70183",
+      "city": "San Juan",
+      "state": "PR",
+      "zip": "00936-8183",
+      "country": "USA"
+    },
+    "phone": "(787) 787-4408",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 18.3985,
+    "lng": -66.1614
+  },
+  {
+    "id": "michael-lewis-company",
+    "name": "MICHAEL LEWIS COMPANY",
+    "owner": "Ira Epstein",
+    "address": {
+      "street": "201 Mittel Drive",
+      "city": "Wood Dale",
+      "state": "IL",
+      "zip": "60191-1196",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "201 Mittel Drive",
+      "city": "Wood Dale",
+      "state": "IL",
+      "zip": "60191-1196",
+      "country": "USA"
+    },
+    "phone": "(630) 350-1060",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Shipping"
+    ],
+    "notes": null,
+    "lat": 41.9639,
+    "lng": -87.9598
+  },
+  {
+    "id": "michelsen-packaging-company",
+    "name": "MICHELSEN PACKAGING COMPANY",
+    "owner": "Chuck Adams",
+    "address": {
+      "street": "202 N 2nd Avenue",
+      "city": "Yakima",
+      "state": "WA",
+      "zip": "98902",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 89",
+      "city": "Yakima",
+      "state": "WA",
+      "zip": "98902",
+      "country": "USA"
+    },
+    "phone": "509-248-6270",
+    "branches": 6,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 46.6021,
+    "lng": -120.5059
+  },
+  {
+    "id": "midland-paper-company",
+    "name": "MIDLAND PAPER COMPANY",
+    "owner": "James Ledergerber",
+    "address": {
+      "street": "3900 James Savage Road",
+      "city": "Midland",
+      "state": "MI",
+      "zip": "48642",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "3900 James Savage Road",
+      "city": "Midland",
+      "state": "MI",
+      "zip": "48642",
+      "country": "USA"
+    },
+    "phone": "(989) 496-3360",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 43.6156,
+    "lng": -84.2472
+  },
+  {
+    "id": "midwest-paper-specialties-co",
+    "name": "MIDWEST PAPER SPECIALTIES CO.",
+    "owner": "Rick Barnwell",
+    "address": {
+      "street": "1117 Rochester Road",
+      "city": "Troy",
+      "state": "MI",
+      "zip": "48083",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 578",
+      "city": "Troy",
+      "state": "MI",
+      "zip": "48099-0578",
+      "country": "USA"
+    },
+    "phone": "(419) 536-1212",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 42.6064,
+    "lng": -83.1498
+  },
+  {
+    "id": "milhench-supply-company",
+    "name": "MILHENCH SUPPLY COMPANY",
+    "owner": "Heike Milhench",
+    "address": {
+      "street": "121 Duchaine Blvd.",
+      "city": "New Bedford",
+      "state": "MA",
+      "zip": "2745",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "121 Duchaine Blvd.",
+      "city": "New Bedford",
+      "state": "MA",
+      "zip": "2745",
+      "country": "USA"
+    },
+    "phone": "(508) 995-8331",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "All"
+    ],
+    "notes": null,
+    "lat": 41.6362,
+    "lng": -70.9342
+  },
+  {
+    "id": "miller-paper-company",
+    "name": "MILLER PAPER COMPANY",
+    "owner": "Monica Williams",
+    "address": {
+      "street": "1904 Bell Street (I-40 & Bell)",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79106-4536",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 50847",
+      "city": "Amarillo",
+      "state": "TX",
+      "zip": "79159",
+      "country": "USA"
+    },
+    "phone": "(806) 353-0317",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 35.1991,
+    "lng": -101.8313
+  },
+  {
+    "id": "montana-broom-brush-company",
+    "name": "MONTANA BROOM & BRUSH COMPANY",
+    "owner": "Greg Hareland",
+    "address": {
+      "street": "1245 Harrison Avenue",
+      "city": "Butte",
+      "state": "MT",
+      "zip": "59701-4007",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1245 Harrison Avenue",
+      "city": "Butte",
+      "state": "MT",
+      "zip": "59701-4007",
+      "country": "USA"
+    },
+    "phone": "(406) 723-5650",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": "2",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 46.0038,
+    "lng": -112.5348
+  },
+  {
+    "id": "morrisette-paper-co-greensboro",
+    "name": "MORRISETTE PAPER CO.- GREENSBORO",
+    "owner": "Cary  Duley",
+    "address": {
+      "street": "5925 Summit Ave.",
+      "city": "Browns Summit",
+      "state": "NC",
+      "zip": "27214",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 20768",
+      "city": "Greensboro",
+      "state": "NC",
+      "zip": "27420",
+      "country": "USA"
+    },
+    "phone": "(336) 375-1515",
+    "branches": 8,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 36.2246,
+    "lng": -79.7692
+  },
+  {
+    "id": "mr-janitorial-supplies",
+    "name": "MR. JANITORIAL SUPPLIES",
+    "owner": "Bill Birring",
+    "address": {
+      "street": "1188 Gorham Street",
+      "city": "Newmarket",
+      "state": "ON",
+      "zip": "L3Y 8W4",
+      "country": "CAN"
+    },
+    "mailingAddress": {
+      "street": "1188 Gorham Street",
+      "city": "Newmarket",
+      "state": "ON",
+      "zip": "L3Y 8W4",
+      "country": "CAN"
+    },
+    "phone": "(905) 836-4250",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 44.0592,
+    "lng": -79.4613
+  },
+  {
+    "id": "multifab-inc",
+    "name": "MULTIFAB INC.",
+    "owner": "Mark Jordan",
+    "address": {
+      "street": "3808 N. Sullivan Rd, SIP Bldg. #6",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99216-1614",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "3808 N. Sullivan Rd, SIP Bldg. #6",
+      "city": "Spokane",
+      "state": "WA",
+      "zip": "99216-1614",
+      "country": "USA"
+    },
+    "phone": "(509)924-6631",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Industrial"
+    ],
+    "notes": null,
+    "lat": 47.6588,
+    "lng": -117.426
+  },
+  {
+    "id": "nevada-packaging-ernest-paper",
+    "name": "NEVADA PACKAGING/ERNEST PAPER",
+    "owner": "Bill Evans",
+    "address": {
+      "street": "3920 West Sunset Rd., Suite G",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89118",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "3920 West Sunset Rd., Suite G",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip": "89118",
+      "country": "USA"
+    },
+    "phone": "(702) 795-7455",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "insanely big",
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  {
+    "id": "omni-solv",
+    "name": "OMNI SOLV",
+    "owner": "Bob Spence",
+    "address": {
+      "street": "175 Circle M Drive",
+      "city": "Salisbury",
+      "state": "NC",
+      "zip": "28147",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "175 Cedar Springs Road",
+      "city": "Salisbury",
+      "state": "NC",
+      "zip": "28147",
+      "country": "USA"
+    },
+    "phone": "(704) 295-0006",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "All"
+    ],
+    "notes": "ownwed by AeroGroup, private]",
+    "lat": 35.671,
+    "lng": -80.4741
+  },
+  {
+    "id": "one-way-products-inc",
+    "name": "ONE WAY PRODUCTS, INC.",
+    "owner": "Dick Dickerman",
+    "address": {
+      "street": "433 East Ransom Street",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49007",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 50150",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49005",
+      "country": "USA"
+    },
+    "phone": "(269) 343-3772",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": "Great facility",
+    "lat": 42.2917,
+    "lng": -85.5872
+  },
+  {
+    "id": "p-b-gast-sons-co",
+    "name": "P. B GAST & SONS CO.",
+    "owner": "Peter Gast",
+    "address": {
+      "street": "355 Cottage Grove SE",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49502",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "355 Cottage Grove SE",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49502",
+      "country": "USA"
+    },
+    "phone": "(616) 245-0574",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 42.9634,
+    "lng": -85.6681
+  },
+  {
+    "id": "rocket-industrial-wausau",
+    "name": "ROCKET INDUSTRIAL- WAUSAU",
+    "owner": "Steve Menzner",
+    "address": {
+      "street": "P. O. Box 569",
+      "city": "Wausau",
+      "state": "WI",
+      "zip": "54402-0569",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 569",
+      "city": "Wausau",
+      "state": "WI",
+      "zip": "54402-0569",
+      "country": "USA"
+    },
+    "phone": "(715) 845-7211",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 44.9591,
+    "lng": -89.6301
+  },
+  {
+    "id": "pak-west-paper-packaging",
+    "name": "PAK WEST PAPER & PACKAGING",
+    "owner": "John Maddux",
+    "address": {
+      "street": "6300 Goodyear Road",
+      "city": "Benicia",
+      "state": "CA",
+      "zip": "94510",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "6300 Goodyear Road",
+      "city": "Benicia",
+      "state": "CA",
+      "zip": "94510",
+      "country": "USA"
+    },
+    "phone": "(707) 745-8558",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "massive",
+    "lat": 38.0494,
+    "lng": -122.1583
+  },
+  {
+    "id": "philpac-corporation",
+    "name": "PHILPAC CORPORATION",
+    "owner": "Bruce Phillips",
+    "address": {
+      "street": "1144 Military Road",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14217",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1144 Military road",
+      "city": "Buffalo",
+      "state": "NY",
+      "zip": "14217",
+      "country": "USA"
+    },
+    "phone": "(716) 875-8005",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 42.8864,
+    "lng": -78.8784
+  },
+  {
+    "id": "piedmont-national-corp",
+    "name": "PIEDMONT NATIONAL CORP.",
+    "owner": "Philip Shaw",
+    "address": {
+      "street": "1561 Southland Circle",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30318",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1561 Southland Circle",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30318",
+      "country": "USA"
+    },
+    "phone": "404-351-6130",
+    "branches": 4,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 33.749,
+    "lng": -84.388
+  },
+  {
+    "id": "provident-packaging-corporation",
+    "name": "PROVIDENT PACKAGING CORPORATION",
+    "owner": "Adam Gerber",
+    "address": {
+      "street": "8701 Torresdale Ave. (Rear)",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19136",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "8701 Torresdale Ave. (Rear)",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19136",
+      "country": "USA"
+    },
+    "phone": "(215) 827-0960",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  {
+    "id": "resort-services-inc",
+    "name": "RESORT SERVICES, INC.",
+    "owner": "Frank Banks",
+    "address": {
+      "street": "336 Buck Island Road",
+      "city": "Bluffton",
+      "state": "SC",
+      "zip": "29910",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 295",
+      "city": "Bluffton",
+      "state": "SC",
+      "zip": "29910",
+      "country": "USA"
+    },
+    "phone": "(843) 757-3701",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Linen"
+    ],
+    "notes": null,
+    "lat": 32.2379,
+    "lng": -80.8604
+  },
+  {
+    "id": "retailers-supply-co-inc",
+    "name": "RETAILERS SUPPLY CO., INC.",
+    "owner": "CHAD DRURY",
+    "address": {
+      "street": "4398 Seurity Pkwy",
+      "city": "New Albany",
+      "state": "IN",
+      "zip": "47150",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 97",
+      "city": "New Albany",
+      "state": "IN",
+      "zip": "47151-0097",
+      "country": "USA"
+    },
+    "phone": "(812) 948-1163",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "san"
+    ],
+    "notes": null,
+    "lat": 38.2856,
+    "lng": -85.8241
+  },
+  {
+    "id": "rome-paper-co",
+    "name": "ROME PAPER CO.",
+    "owner": "Wilson Burgess",
+    "address": {
+      "street": "21 Kirton Street",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30165",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 313",
+      "city": "Rome",
+      "state": "GA",
+      "zip": "30163",
+      "country": "USA"
+    },
+    "phone": "(706) 234-8208",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "owned by PaperPack",
+    "lat": 34.257,
+    "lng": -85.1647
+  },
+  {
+    "id": "ronstan-paper-co-inc",
+    "name": "RONSTAN PAPER CO., INC.",
+    "owner": "Chris LaMorte",
+    "address": {
+      "street": "72 James Way",
+      "city": "Eatontown",
+      "state": "NJ",
+      "zip": "7724",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "72 James Way",
+      "city": "Eatontown",
+      "state": "NJ",
+      "zip": "7724",
+      "country": "USA"
+    },
+    "phone": "(732) 389-1040",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 40.2965,
+    "lng": -74.0705
+  },
+  {
+    "id": "royal-papers-inc",
+    "name": "ROYAL PAPERS INC.",
+    "owner": "Eileen Lewandowski",
+    "address": {
+      "street": "1939 S. Vandeventer",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63110",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "1939 S. Vandeventer",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip": "63110",
+      "country": "USA"
+    },
+    "phone": "(314) 664-3900",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 38.627,
+    "lng": -90.1994
+  },
+  {
+    "id": "rusco-packaging-inc",
+    "name": "RUSCO PACKAGING, INC.",
+    "owner": "Brock  Wallace",
+    "address": {
+      "street": "1010 Regal Row",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75247",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 560227",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75247",
+      "country": "USA"
+    },
+    "phone": "(214) 634-8630",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 32.7767,
+    "lng": -96.797
+  },
+  {
+    "id": "rutherford-janitor-supply-corp",
+    "name": "RUTHERFORD JANITOR SUPPLY CORP.",
+    "owner": "Paul Rutherford",
+    "address": {
+      "street": "2522 Hermitage Road",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23220",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2522 Hermitage Road",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23220",
+      "country": "USA"
+    },
+    "phone": "(804) 353-0445",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 37.5407,
+    "lng": -77.436
+  },
+  {
+    "id": "san-luis-paper-company",
+    "name": "SAN LUIS PAPER COMPANY",
+    "owner": "Doug Hoffman",
+    "address": {
+      "street": "625 Tank Farm Road",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93401",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 1859",
+      "city": "San Luis Obispo",
+      "state": "CA",
+      "zip": "93406-1859",
+      "country": "USA"
+    },
+    "phone": "(805) 544-5656",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "Owned by Ernest Paper",
+    "lat": 35.2828,
+    "lng": -120.6596
+  },
+  {
+    "id": "sanolite-corporation",
+    "name": "SANOLITE CORPORATION",
+    "owner": "Norman Lubin",
+    "address": {
+      "street": "26 Papetti Plaza",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "08207-0818",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "26 Papetti Plaza",
+      "city": "Elizabeth",
+      "state": "NJ",
+      "zip": "08207-0818",
+      "country": "USA"
+    },
+    "phone": "(908) 353-8500",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": "Owned by Swisher Hygiene",
+    "lat": 40.664,
+    "lng": -74.2107
+  },
+  {
+    "id": "scott-naake-paper-co-inc",
+    "name": "SCOTT-NAAKE PAPER CO., INC.",
+    "owner": "Carl Naake",
+    "address": {
+      "street": "333 N. 7th St.",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95814",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "333 N. 7th St.",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip": "95814",
+      "country": "USA"
+    },
+    "phone": "(916) 443-6611",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 38.5816,
+    "lng": -121.4944
+  },
+  {
+    "id": "shingi-trading-co-ltd-hiroshima-brc",
+    "name": "SHINGI TRADING CO LTD HIROSHIMA BRC",
+    "owner": "Tomo Tanaka",
+    "address": {
+      "street": "2-1-24Minami-Yoshijima Maka-Ku",
+      "city": "Hiroshima",
+      "state": "JP",
+      "zip": "730-8662",
+      "country": "JPN"
+    },
+    "mailingAddress": {
+      "street": "2-1-24Minami-Yoshijima Maka-Ku",
+      "city": "Hiroshima",
+      "state": "JP",
+      "zip": "730-8662",
+      "country": "JPN"
+    },
+    "phone": "(082) 241-5713",
+    "branches": 1,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 34.3853,
+    "lng": 132.4553
+  },
+  {
+    "id": "shippers-solutions",
+    "name": "SHIPPERS SOLUTIONS",
+    "owner": "Henry Camp",
+    "address": {
+      "street": "(502) 634-2800",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40217",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2428 Crittenden Drive",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40217",
+      "country": "USA"
+    },
+    "phone": "(502) 634-2800",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "id": "shippers-supply-american-packaging",
+    "name": "SHIPPERS SUPPLY(AMERICAN PACKAGING)",
+    "owner": "Jack Findlay",
+    "address": {
+      "street": "226 Circle Freeway Drive",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45246",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "226 Circle Freeway Drive",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip": "45246",
+      "country": "USA"
+    },
+    "phone": "(513) 942-6707",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "Look at American Packaging&SSI",
+    "lat": 39.1031,
+    "lng": -84.512
+  },
+  {
+    "id": "sims-manufacturing-company",
+    "name": "SIMS MANUFACTURING COMPANY",
+    "owner": "Mike Pepper",
+    "address": {
+      "street": "134 N. 1st Avenue",
+      "city": "Yakima",
+      "state": "WA",
+      "zip": "98902",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "134 N. 1st Avenue",
+      "city": "Yakima",
+      "state": "WA",
+      "zip": "98902",
+      "country": "USA"
+    },
+    "phone": "(509) 453-7690",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "All"
+    ],
+    "notes": null,
+    "lat": 46.6021,
+    "lng": -120.5059
+  },
+  {
+    "id": "sink-paper-packaging",
+    "name": "SINK PAPER & PACKAGING",
+    "owner": "Barb Sink",
+    "address": {
+      "street": "12044 Ridgemont Drive",
+      "city": "Urbandale",
+      "state": "IA",
+      "zip": "50323",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 3746",
+      "city": "Urbandale",
+      "state": "IA",
+      "zip": "50322",
+      "country": "USA"
+    },
+    "phone": "(515) 331-9000",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 41.6267,
+    "lng": -93.7124
+  },
+  {
+    "id": "spectrum-paper-co",
+    "name": "SPECTRUM PAPER CO.",
+    "owner": "Jim Brown",
+    "address": {
+      "street": "11801 Miriam Drive, Suite B-1",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79936",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "11801 Miriam Drive, Suite B-1",
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79936",
+      "country": "USA"
+    },
+    "phone": "(915) 595-0020",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 31.7619,
+    "lng": -106.485
+  },
+  {
+    "id": "springfield-janitor-supply",
+    "name": "SPRINGFIELD JANITOR SUPPLY",
+    "owner": "Bob Hawn",
+    "address": {
+      "street": "2255 N. Burton Avenue",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65803-5292",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2255 N. Burton Avenue",
+      "city": "Springfield",
+      "state": "MO",
+      "zip": "65803-5292",
+      "country": "USA"
+    },
+    "phone": "(417) 866-4221",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2.5",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 37.209,
+    "lng": -93.2923
+  },
+  {
+    "id": "ssi-packaging-group-inc",
+    "name": "SSI PACKAGING GROUP, INC.",
+    "owner": "Ricky Womble",
+    "address": {
+      "street": "1514 Brook Road",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23220",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 26547",
+      "city": "Richmond",
+      "state": "VA",
+      "zip": "23261-6547",
+      "country": "USA"
+    },
+    "phone": "(804) 649-1111",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 37.5407,
+    "lng": -77.436
+  },
+  {
+    "id": "sterling-paper-co-pittsburgh",
+    "name": "STERLING PAPER CO-PITTSBURGH",
+    "owner": "John Common",
+    "address": {
+      "street": "R.J.Casey Indust'l Pk Columbus Ave",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15233",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "R.J.Casey Indust'l Pk Columbus Ave",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip": "15233",
+      "country": "USA"
+    },
+    "phone": "(412) 322-0200",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "https://sterling.org/locations",
+    "lat": 40.4406,
+    "lng": -79.9959
+  },
+  {
+    "id": "strategic-equipment-supply",
+    "name": "STRATEGIC EQUIPMENT & SUPPLY",
+    "owner": "Walter Eskuri",
+    "address": {
+      "street": "100 Roosevelt Road",
+      "city": "St. Cloud",
+      "state": "MN",
+      "zip": "56301.3823",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "100 Roosevelt Road",
+      "city": "St. Cloud",
+      "state": "MN",
+      "zip": "56301-3823",
+      "country": "USA"
+    },
+    "phone": "(320) 252-2977",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "Owned by TriMark",
+    "lat": 45.5579,
+    "lng": -94.1632
+  },
+  {
+    "id": "sun-industrial-supply-lewis-ind",
+    "name": "SUN INDUSTRIAL SUPPLY (LEWIS IND.)",
+    "owner": "Steve Rubin",
+    "address": {
+      "street": "700 Savage Road",
+      "city": "North Hampton",
+      "state": "PA",
+      "zip": "18067",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "700 Savage Road",
+      "city": "North Hampton",
+      "state": "PA",
+      "zip": "18067",
+      "country": "USA"
+    },
+    "phone": "(610) 502-0747",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": "Owned by lewis industrial which is owned by B2B",
+    "lat": 40.6862,
+    "lng": -75.4938
+  },
+  {
+    "id": "sunbelt-paper-packaging-llc",
+    "name": "SUNBELT PAPER & PACKAGING, LLC",
+    "owner": "William A. Rivers",
+    "address": {
+      "street": "109 Airpark Industrial Road",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "109 Airpark Industrial Road",
+      "city": "Alabaster",
+      "state": "AL",
+      "zip": "35007",
+      "country": "USA"
+    },
+    "phone": "(205) 663-2030",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "PKG"
+    ],
+    "notes": null,
+    "lat": 33.2437,
+    "lng": -86.8155
+  },
+  {
+    "id": "the-individual-group",
+    "name": "THE INDIVIDUAL GROUP",
+    "owner": "Steve Supowitz",
+    "address": {
+      "street": "5496 Lindberg Lane",
+      "city": "Bell",
+      "state": "Ca",
+      "zip": "90201",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "5496 Lindberg Lane",
+      "city": "Bell",
+      "state": "CA",
+      "zip": "90201",
+      "country": "USA"
+    },
+    "phone": "(323) 981-2800",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Food"
+    ],
+    "notes": null,
+    "lat": 33.9772,
+    "lng": -118.187
+  },
+  {
+    "id": "the-janitors-supply-co-inc",
+    "name": "THE JANITORS SUPPLY CO., INC.",
+    "owner": "Kenneth Gast",
+    "address": {
+      "street": "5005 Speedway Drive",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46825-5244",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "5005 Speedway Drive",
+      "city": "Fort Wayne",
+      "state": "IN",
+      "zip": "46825-5244",
+      "country": "USA"
+    },
+    "phone": "1(260) 482-8615",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 41.0793,
+    "lng": -85.1394
+  },
+  {
+    "id": "the-janton-company",
+    "name": "THE JANTON COMPANY",
+    "owner": "Dave Logan",
+    "address": {
+      "street": "1288 N. High Street",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43201",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 8096",
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43201",
+      "country": "USA"
+    },
+    "phone": "(614) 299-2151",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 39.9612,
+    "lng": -82.9988
+  },
+  {
+    "id": "thornton-brothers-inc",
+    "name": "THORNTON BROTHERS, INC.",
+    "owner": "Clay Gilbert",
+    "address": {
+      "street": "150 Olympic Place",
+      "city": "Athens",
+      "state": "GA",
+      "zip": "30601",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P. O. Box 80366",
+      "city": "Athens",
+      "state": "GA",
+      "zip": "30608",
+      "country": "USA"
+    },
+    "phone": "(706) 543-5204",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 33.9519,
+    "lng": -83.3576
+  },
+  {
+    "id": "triple-a-supplies-inc",
+    "name": "TRIPLE A SUPPLIES INC.",
+    "owner": "",
+    "address": {
+      "street": "50 Jeanne Drive",
+      "city": "Newburgh",
+      "state": "NY",
+      "zip": "12550",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "50 Jeanne Drive",
+      "city": "Newburgh",
+      "state": "NY",
+      "zip": "12550",
+      "country": "USA"
+    },
+    "phone": "(845) 566-4200",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 41.5034,
+    "lng": -74.0104
+  },
+  {
+    "id": "united-paper-corporation",
+    "name": "UNITED PAPER CORPORATION",
+    "owner": "Todd  Murphy",
+    "address": {
+      "street": "1330 University Drive",
+      "city": "Menasha",
+      "state": "WI",
+      "zip": "54952",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 58",
+      "city": "Menasha",
+      "state": "WI",
+      "zip": "54952",
+      "country": "USA"
+    },
+    "phone": "(920) 725-3201",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 44.2019,
+    "lng": -88.447
+  },
+  {
+    "id": "van-paper-co-inc",
+    "name": "VAN PAPER CO., INC.",
+    "owner": "Scott Van",
+    "address": {
+      "street": "2107 Stewart Avenue",
+      "city": "St. Paul",
+      "state": "MN",
+      "zip": "55116",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "2107 Stewart Avenue",
+      "city": "St. Paul",
+      "state": "MN",
+      "zip": "55116",
+      "country": "USA"
+    },
+    "phone": "(651) 690-1751",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 44.9537,
+    "lng": -93.09
+  },
+  {
+    "id": "walter-e-nelson-company",
+    "name": "WALTER E. NELSON COMPANY",
+    "owner": "Leslie Whitehouse",
+    "address": {
+      "street": "5937 N. Cutter Circle",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97217",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "5937 N. Cutter Circle",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97217",
+      "country": "USA"
+    },
+    "phone": "(503) 285-3037",
+    "branches": 2,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  {
+    "id": "webb-chemical-paper-co-inc",
+    "name": "WEBB CHEMICAL & PAPER CO., INC.",
+    "owner": "Huey Webb",
+    "address": {
+      "street": "724 W. Marion Street",
+      "city": "Shelby",
+      "state": "NC",
+      "zip": "28150",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "P.O. Box 2000",
+      "city": "Shelby",
+      "state": "NC",
+      "zip": "28150",
+      "country": "USA"
+    },
+    "phone": "(704) 482-4331",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 35.2926,
+    "lng": -81.5362
+  },
+  {
+    "id": "weber-paper-company",
+    "name": "WEBER PAPER COMPANY",
+    "owner": "Jim Weber",
+    "address": {
+      "street": "4300 Chavenelle Rd.",
+      "city": "Dubuque",
+      "state": "IA",
+      "zip": "52002",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "4300 Chavenelle Rd.",
+      "city": "Dubuque",
+      "state": "IA",
+      "zip": "52002",
+      "country": "USA"
+    },
+    "phone": "(563) 588-4611",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": "Owned by Capital Janitorial",
+    "lat": 42.5006,
+    "lng": -90.6646
+  },
+  {
+    "id": "weiss-bros-paper",
+    "name": "WEISS BROS. PAPER",
+    "owner": "Richard Weiss",
+    "address": {
+      "street": "18038 Oak Ridge Drive",
+      "city": "Hagerstown",
+      "state": "MD",
+      "zip": "21740",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "18038 Oak Ridge Drive",
+      "city": "Hagerstown",
+      "state": "MD",
+      "zip": "21740",
+      "country": "USA"
+    },
+    "phone": "(800)878-9347",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": null,
+    "lat": 39.6418,
+    "lng": -77.72
+  },
+  {
+    "id": "wildman-first-aid",
+    "name": "WILDMAN FIRST AID",
+    "owner": "Drew Scholl",
+    "address": {
+      "street": "800 S. Buffalo Street",
+      "city": "Warsaw",
+      "state": "IN",
+      "zip": "46580",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "800 S. Buffalo Street",
+      "city": "Warsaw",
+      "state": "IN",
+      "zip": "46580",
+      "country": "USA"
+    },
+    "phone": "(574) 269-1552",
+    "branches": null,
+    "membership": "AFF",
+    "sizeRange": null,
+    "priority": "1",
+    "productTypes": [
+      "All"
+    ],
+    "notes": null,
+    "lat": 41.2373,
+    "lng": -85.8536
+  },
+  {
+    "id": "chem-pak-products",
+    "name": "Chem-Pak Products",
+    "owner": "",
+    "address": {
+      "street": "170 South Arrowhead Avenue",
+      "city": "San Bernardino",
+      "state": "CA",
+      "zip": "92408",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.chempakproducts.com/catalog/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "8--15",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 34.1083,
+    "lng": -117.2898
+  },
+  {
+    "id": "clean-o-rama",
+    "name": "CLEAN-O-RAMA",
+    "owner": "",
+    "address": {
+      "street": "12 Bartlett Road",
+      "city": "Gorham",
+      "state": "ME",
+      "zip": "4038",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "http://www.clean-o-rama.com",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": 1,
+    "membership": "SSS",
+    "sizeRange": "10--12",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 43.6787,
+    "lng": -70.4442
+  },
+  {
+    "id": "friendly-wholesale",
+    "name": "Friendly Wholesale",
+    "owner": "",
+    "address": {
+      "street": "655 Cushman Street",
+      "city": "Wooster",
+      "state": "OH",
+      "zip": "44691",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.friendlywc.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "15--20",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 40.8051,
+    "lng": -81.9354
+  },
+  {
+    "id": "kenway-distributors-inc",
+    "name": "Kenway Distributors, Inc.",
+    "owner": "",
+    "address": {
+      "street": "1460 Bosley Road",
+      "city": "Owensboro",
+      "state": "KY",
+      "zip": "42301",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.kenwaydistributors.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": 1,
+    "membership": "SSS",
+    "sizeRange": "15--20",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 37.7742,
+    "lng": -87.1133
+  },
+  {
+    "id": "kleenmark",
+    "name": "Kleenmark",
+    "owner": "",
+    "address": {
+      "street": "1206 Ann Street",
+      "city": "Madison",
+      "state": "WI",
+      "zip": "53713",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://kleenmark.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "10--15",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 43.0731,
+    "lng": -89.4012
+  },
+  {
+    "id": "lansing-sanitary-supply-co",
+    "name": "Lansing Sanitary Supply Co.",
+    "owner": "",
+    "address": {
+      "street": "1445 South Washington Avenue",
+      "city": "Lansing",
+      "state": "MI",
+      "zip": "48910",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "http://www.lssclean.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "15--20",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": "~~Cleaning/Distributor",
+    "lat": 42.7325,
+    "lng": -84.5555
+  },
+  {
+    "id": "mid-valley-supply",
+    "name": "Mid Valley Supply",
+    "owner": "",
+    "address": {
+      "street": "220-B Airport Boulevard",
+      "city": "Freedom",
+      "state": "CA",
+      "zip": "95019",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.midvalleysupply.net/catalog/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "12--15",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 36.925,
+    "lng": -121.7644
+  },
+  {
+    "id": "osborn-paper-company-llc",
+    "name": "Osborn Paper Company, LLC",
+    "owner": "",
+    "address": {
+      "street": "417 South Schifferdecker Avenue",
+      "city": "Joplin",
+      "state": "MO",
+      "zip": "64801",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://osbornpaper.com/osbornpaper/outpost/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": null,
+    "priority": "2",
+    "productTypes": [
+      "Paper"
+    ],
+    "notes": "Owned with Lakeland, check out",
+    "lat": 37.0842,
+    "lng": -94.5133
+  },
+  {
+    "id": "performance-chemical-supply-inc",
+    "name": "Performance Chemical & Supply, Inc.",
+    "owner": "",
+    "address": {
+      "street": "18633 81st Avenue",
+      "city": "Tinley Park",
+      "state": "IL",
+      "zip": "60487",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "http://www.performancechemical.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "15--20",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 41.5732,
+    "lng": -87.7876
+  },
+  {
+    "id": "pettus-workplace-solutions",
+    "name": "Pettus Workplace Solutions",
+    "owner": "",
+    "address": {
+      "street": "2 Freeway Drive",
+      "city": "Little Rock",
+      "state": "AR",
+      "zip": "72204",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.pettus.shop/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": 3,
+    "membership": "SSS",
+    "sizeRange": "20",
+    "priority": "1",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 34.7465,
+    "lng": -92.2896
+  },
+  {
+    "id": "sanico-cleaning-solutions",
+    "name": "Sanico Cleaning Solutions",
+    "owner": "",
+    "address": {
+      "street": "156 Corporate Drive",
+      "city": "Binghamton",
+      "state": "NY",
+      "zip": "13904",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://isanico.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": null,
+    "membership": "SSS",
+    "sizeRange": "15--20",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 42.0987,
+    "lng": -75.918
+  },
+  {
+    "id": "treat-s-solutions-llc",
+    "name": "Treat\u2019s Solutions LLC",
+    "owner": "",
+    "address": {
+      "street": "6220 Melrose Lane",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73127",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "http://www.treatssolutions.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": 2,
+    "membership": "SSS",
+    "sizeRange": "6--8",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 35.4676,
+    "lng": -97.5164
+  },
+  {
+    "id": "wj-office",
+    "name": "WJ Office",
+    "owner": "",
+    "address": {
+      "street": "118 South Big Valley St",
+      "city": "Boone",
+      "state": "NC",
+      "zip": "28607",
+      "country": "USA"
+    },
+    "mailingAddress": {
+      "street": "https://www.wjoffice.com/",
+      "city": null,
+      "state": null,
+      "zip": "None",
+      "country": null
+    },
+    "phone": null,
+    "branches": 1,
+    "membership": "SSS",
+    "sizeRange": "10--12",
+    "priority": "2",
+    "productTypes": [
+      "Jan",
+      "San"
+    ],
+    "notes": null,
+    "lat": 36.2168,
+    "lng": -81.6746
+  }
+]
