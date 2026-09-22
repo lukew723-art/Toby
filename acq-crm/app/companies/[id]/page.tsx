@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { companies, getCompany, formatAddress } from "@/lib/companies";
 import StageSelector from "@/components/StageSelector";
+import RankControl from "@/components/RankControl";
 import CompanyNotes from "@/components/CompanyNotes";
 import ComposeButton from "@/components/ComposeButton";
 import CompanyEmailField from "@/components/CompanyEmailField";
@@ -19,7 +20,7 @@ export default function CompanyProfile({ params }: { params: { id: string } }) {
   return (
     <main className="max-w-3xl mx-auto px-6 sm:px-10 py-12 sm:py-16">
       <Link href="/companies" className="text-xs font-mono text-muted hover:text-navy">
-        ← All companies
+        ← All companies and ranks
       </Link>
 
       <div className="flex items-start justify-between gap-4 mt-3 mb-6">
@@ -29,7 +30,10 @@ export default function CompanyProfile({ params }: { params: { id: string } }) {
             {company.address.city}, {company.address.state}
           </p>
         </div>
-        <StageSelector companyId={company.id} />
+        <div className="flex items-start gap-3">
+          <RankControl company={company} />
+          <StageSelector companyId={company.id} />
+        </div>
       </div>
 
       <div className="grid sm:grid-cols-2 gap-4 mb-6">

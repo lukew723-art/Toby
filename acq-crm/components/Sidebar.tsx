@@ -5,7 +5,7 @@ import { usePathname } from "next/navigation";
 
 const LINKS = [
   { href: "/", label: "Dashboard", icon: "⌂" },
-  { href: "/companies", label: "Company Profiles", icon: "▤" },
+  { href: "/companies", label: "Company Profiles and Ranks", icon: "▤" },
   { href: "/pipeline", label: "Sales Pipeline", icon: "↗" },
   { href: "/contacts", label: "Contacts", icon: "☺" },
   { href: "/outreach", label: "Email / Phone", icon: "✉" },

@@ -34,8 +34,8 @@ export default function Dashboard() {
           href="/companies"
           className="rounded-xl border border-line bg-white p-5 hover:border-gold transition-colors"
         >
-          <h2 className="font-display text-lg font-semibold text-navy mb-1">Company Profiles</h2>
-          <p className="text-sm text-muted">Browse and search every company on the list.</p>
+          <h2 className="font-display text-lg font-semibold text-navy mb-1">Company Profiles and Ranks</h2>
+          <p className="text-sm text-muted">Browse, search, and rank every company on the list.</p>
         </Link>
         <Link
           href="/pipeline"
